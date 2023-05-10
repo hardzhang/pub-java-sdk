@@ -1,1 +1,1 @@
-统一用户中心的Java Sdk.
+统一的Java Sdk.
